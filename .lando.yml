@@ -1,0 +1,6 @@
+name: my-contenta-cms-api
+recipe: drupal8
+config:
+  webroot: web
+  conf:
+    php: .lando/php.ini
